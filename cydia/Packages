@@ -180,7 +180,7 @@ Maintainer: autopear <lonelystars@gmail.com>
 Installed-Size: 64
 Pre-Depends: firmware (>= 7.0)
 Depends: mobilesubstrate (>= 0.9.5001)
-Filename: debs/com.rpetrich.cacheclearer_1%3A0.1_iphoneos-arm.deb
+Filename: debs/com.rpetrich.cacheclearer_0.1_iphoneos-arm.deb
 Size: 6240
 MD5sum: abba564fc22d485caac9fa6da3e30def
 SHA1: b1aaa83eb54059a1fd2e0a2ebf5f014120ce12c1
