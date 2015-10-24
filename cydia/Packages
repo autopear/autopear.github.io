@@ -1,0 +1,194 @@
+Package: com.autopear.donoterase
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 3
+Depends: com.ericasadun.utilities, coreutils
+Filename: debs/com.autopear.donoterase_1.4_iphoneos-arm.deb
+Size: 1070
+MD5sum: a4196ccbfe8ae8177131ecac8b4aecb8
+SHA1: caf2ebadb5ea846c0e3583ecbc78f30eac3d0a7a
+SHA256: 34e0a23de884b6f32aeccb09493734ec6ac1020565acec9e749be3e97d3b425c
+Section: System
+Priority: important
+Description: Disable Settings->General->Reset->Erase All Content and Settings.
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Name: Do NOT Erase
+
+Package: com.autopear.lang.flipswitch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 32
+Depends: com.a3tweaks.flipswitch
+Conflicts: com.autopear.zh.flipswitch
+Replaces: com.autopear.zh.flipswitch
+Provides: com.autopear.zh.flipswitch
+Filename: debs/com.autopear.lang.flipswitch_1.0_iphoneos-arm.deb
+Size: 6978
+MD5sum: ed060c4c1be5605c771774f293a4a23b
+SHA1: 83ffca9482455b73ceb03341443acfade2472f14
+SHA256: 4f80143e9f8cded480ac50b66ff0f04bca80301041e3b944561db06e23ff665b
+Section: Localization
+Priority: standard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchDp
+Description: Flipswitch languages pack.
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Name: Flipswitch Languages Pack
+
+Package: com.autopear.packdeb
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 5
+Depends: coreutils
+Filename: debs/com.autopear.packdeb_1.1.1_iphoneos-arm.deb
+Size: 1994
+MD5sum: 5b6517870a7a89d70703c17f0b6fe9ee
+SHA1: 1193948b3768ded0315d6c1de37e2f7318be8590
+SHA256: d6846be2125759ed0f02f9dbb098fa96edf87f794a15c2c0fdddd42acf63c688
+Section: Packaging
+Priority: standard
+Description: Repack installed package to deb file. Command: packdeb {gzip|bzip2|lzma} Package_ID.
+Tag: role::hacker, purpose::console
+Author: autopear <lonelystars@gmail.com>
+Name: Pack DEB
+
+Package: com.autopear.silentcharge
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 4
+Filename: debs/com.autopear.silentcharge_2.0_iphoneos-arm.deb
+Size: 1122
+MD5sum: cc6a7219b3f3089d4e1308a5b89db3c8
+SHA1: 395b1e3f5e767858f2029c6f0df7d0d62f9f7098
+SHA256: f9be2517c990e522da03bf799e79e0e2bef426ca60244bdd9a64f097a729c16c
+Section: System
+Priority: standard
+Description: Mute charge sound forever.
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Name: Silent Charge
+
+Package: com.autopear.silentshutter
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 4
+Filename: debs/com.autopear.silentshutter_2.0_iphoneos-arm.deb
+Size: 1220
+MD5sum: 31cf8ea93f7d7e98846f5207b9863924
+SHA1: 3032b11c995c807cdc812ae924ffb277947af895
+SHA256: 123223faf5b450f864e2ee74eff1c4c4697aa669af7a9c876853e6724911783c
+Section: System
+Priority: standard
+Description: Mute camera shutter forever.
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Name: Silent Shutter
+
+Package: com.autopear.zh.flipcontrolcenter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 6
+Pre-Depends: firmware (>= 7.0)
+Depends: com.rpetrich.flipcontrolcenter, com.autopear.lang.flipswitch
+Filename: debs/com.autopear.zh.flipcontrolcenter_1.0_iphoneos-arm.deb
+Size: 1778
+MD5sum: 93c83555271c5a1125b18c5b43975968
+SHA1: 15b83724a0244d9ac3af4d64bc94dd0b610f129b
+SHA256: 18feba7f95931c62d7a6d90a4187f4096c282a6574cab062b6543685ea2ccad3
+Section: Localization
+Priority: standard
+Homepage: http://rpetri.ch/cydia/flipcontrolcenter/
+Description: FlipControlCenter 翻页控制中心简繁中文包。
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Icon: file:///Library/PreferenceLoader/Preferences/FlipControlCenter.png
+Name: FlipControlCenter 中文包
+
+Package: com.autopear.zh.folderenhancer2
+Version: 2.3.0
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 36
+Pre-Depends: firmware (>= 7.0)
+Depends: jp.ashikase.folderenhancer2 (>= 2.2.0)
+Filename: debs/com.autopear.zh.folderenhancer2_2.3.0_iphoneos-arm.deb
+Size: 2370
+MD5sum: e4afc0ba54a37b8895d0f33c24f429fb
+SHA1: 2b030495d3f95f42a23afea65a53db7eabe79c33
+SHA256: 92ac25b0191dd80ff3f14f8d8772a00a4935daaf8cc23f2ad1c25bfc5de150ef
+Section: Localization
+Priority: standard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.folderenhancer2/
+Description: FolderEnhancer (iOS 7/8/9 )简繁中文语言包。
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Icon: file:///Library/PreferenceBundles/FolderEnhancer.bundle/icon.png
+Name: FolderEnhancer (iOS 7/8/9) 中文包
+
+Package: com.autopear.zh.multiiconmover.plus
+Version: 2.5.1
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 3
+Pre-Depends: firmware (>= 4.2)
+Depends: jp.ashikase.multiiconmover.plus
+Filename: debs/com.autopear.zh.multiiconmover.plus_2.5.1_iphoneos-arm.deb
+Size: 1570
+MD5sum: 91a2b3079aaf52081065ffad273382ee
+SHA1: 374e42cb37889f5bb00b5e4c0262647523a2b594
+SHA256: caa152287afd34e0b1f81a1d12df06892d5ca6109e675abd44e1030aaaaa55f4
+Section: Localization
+Priority: standard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.multiiconmover.plus/
+Description: MultiIconMover+ 简繁中文语言包。
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Icon: file:///Library/PreferenceLoader/Preferences/MultiIconMoverPlus/icon.png
+Name: MultiIconMover+ 中文包
+
+Package: com.cdsq.zh.barrel
+Version: 1.7.5.0-1
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 10
+Depends: com.aaronash.barrel
+Filename: debs/com.cdsq.zh.barrel_1.7.5.0-1_iphoneos-arm.deb
+Size: 2348
+MD5sum: d6ea0c09241d4a8e1308d91d84c548e2
+SHA1: 79fcb25c4b1e76a220c6f356702957d17bf298d9
+SHA256: bc8d0f8426dafd231267970336a3d4cc55aef34a14bb8928c663435cb03cd8e4
+Section: Localization
+Priority: standard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
+Description: Barrel 简繁中文包。
+Tag: role::enduser
+Author: cdsq <cdsuqing@gmail.com>
+Icon: file:///Library/PreferenceBundles/threedeeprefs.bundle/threedeeprefs.png
+Name: Barrel 中文包
+
+Package: com.rpetrich.cacheclearer
+Version: 1:0.1
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 64
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate (>= 0.9.5001)
+Filename: debs/com.rpetrich.cacheclearer_1%3A0.1_iphoneos-arm.deb
+Size: 6240
+MD5sum: abba564fc22d485caac9fa6da3e30def
+SHA1: b1aaa83eb54059a1fd2e0a2ebf5f014120ce12c1
+SHA256: 938f0134b533d86853db1580def383b3adf01e6cb30cdcd0f595e885763c718f
+Section: Tweaks
+Priority: standard
+Description: Cache Clear multilingual version.
+Tag: role::enduser
+Author: Ryan Petrich <rpetrich@gmail.com>
+Name: Cache Clear (Multilingual)
+
