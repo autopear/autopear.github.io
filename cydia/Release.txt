@@ -1,0 +1,8 @@
+Origin: autopear
+Label: autopear
+Suite: stable
+Version: 1.0
+Codename: autopear
+Architectures: iphoneos-arm
+Components: main
+Description: Merlin Mao's Cydia repository.
