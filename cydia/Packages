@@ -200,7 +200,7 @@ Installed-Size: 196
 Pre-Depends: firmware (>= 4.0), gsc.armv7
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.rpetrich.iconrenamer_1.2.4_iphoneos-arm.deb
-Size: 27504
+Size: 27500
 MD5sum: 7b052b3e6ae7d6754478335a355f5a90
 SHA1: 89bc625be27162a6be31ddff923c4beff409bc6d
 SHA256: ecfcf9e848651c7ea99457615175a9729b605264660f10f18edf575bdb035141
