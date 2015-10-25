@@ -17,19 +17,19 @@ Author: autopear <lonelystars@gmail.com>
 Name: Do NOT Erase
 
 Package: com.autopear.lang.flipswitch
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
-Installed-Size: 32
+Installed-Size: 36
 Depends: com.a3tweaks.flipswitch
 Conflicts: com.autopear.zh.flipswitch
 Replaces: com.autopear.zh.flipswitch
 Provides: com.autopear.zh.flipswitch
-Filename: debs/com.autopear.lang.flipswitch_1.0_iphoneos-arm.deb
-Size: 6978
-MD5sum: ed060c4c1be5605c771774f293a4a23b
-SHA1: 83ffca9482455b73ceb03341443acfade2472f14
-SHA256: 4f80143e9f8cded480ac50b66ff0f04bca80301041e3b944561db06e23ff665b
+Filename: debs/com.autopear.lang.flipswitch_1.1_iphoneos-arm.deb
+Size: 7442
+MD5sum: c97baf42b1fa7cc75b995470eda38946
+SHA1: 798d8fce600f21c8027d5274bf99a2113467060f
+SHA256: eab0f48cfaa1e861354c23492af3c09cd09ef1424b5e93b840c6b633da13d3bb
 Section: Localization
 Priority: standard
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchDp
@@ -191,4 +191,24 @@ Description: Cache Clear multilingual version.
 Tag: role::enduser
 Author: Ryan Petrich <rpetrich@gmail.com>
 Name: Cache Clear (Multilingual)
+
+Package: com.rpetrich.iconrenamer
+Version: 1:1.2.4
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 196
+Pre-Depends: firmware (>= 4.0), gsc.armv7
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.rpetrich.iconrenamer_1.2.4_iphoneos-arm.deb
+Size: 27504
+MD5sum: 54a6bba846f25b65b16afff32698a89b
+SHA1: 5bc5ff88f2b042e5726de863879a2753603b6b27
+SHA256: 503dbdc72d4e4ff7b648949d0ea66c8019ae651774316477367a9f88fbbb0071
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconrenamerData
+Description: Rename icons from your SpringBoard. Compatible with iOS 4 - 9. Adds support for Chinese and Japanese.
+Tag: role::enduser, purpose::extension
+Author: Ryan Petrich <rpetrich@gmail.com>
+Dev: rpetrich
+Name: Icon Renamer (Multilingual)
 
