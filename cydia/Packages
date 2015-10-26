@@ -133,17 +133,17 @@ Icon: file:///Library/PreferenceBundles/FolderEnhancer.bundle/icon.png
 Name: FolderEnhancer (iOS 7/8/9) 中文包
 
 Package: com.autopear.zh.multiiconmover.plus
-Version: 2.5.1
+Version: 2.5.2
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
 Installed-Size: 3
 Pre-Depends: firmware (>= 4.2)
 Depends: jp.ashikase.multiiconmover.plus
-Filename: debs/com.autopear.zh.multiiconmover.plus_2.5.1_iphoneos-arm.deb
-Size: 1570
-MD5sum: 91a2b3079aaf52081065ffad273382ee
-SHA1: 374e42cb37889f5bb00b5e4c0262647523a2b594
-SHA256: caa152287afd34e0b1f81a1d12df06892d5ca6109e675abd44e1030aaaaa55f4
+Filename: debs/com.autopear.zh.multiiconmover.plus_2.5.2_iphoneos-arm.deb
+Size: 1630
+MD5sum: 633473709f567944ed85095755027060
+SHA1: 238ad7893fe2d9ffae6b633fa7821a06b31aeb61
+SHA256: 72d0951eb45e81c97e3ef2c9aa1605939a10a42e940047c718a777692a9daeb1
 Section: Localization
 Priority: standard
 Homepage: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.multiiconmover.plus/
