@@ -56,6 +56,29 @@ Tag: role::hacker, purpose::console
 Author: autopear <lonelystars@gmail.com>
 Name: Pack DEB
 
+Package: com.autopear.sharewidgetplus
+Version: 1.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Merlin <lonelystars@gmail.com>
+Installed-Size: 3296
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate (>= 0.9.6011), preferenceloader (>= 2.2.3-3), de.j-gessner.ccloader
+Conflicts: gsc.ipad, com.autopear.sharewidget7, com.autopear.sharewidget8
+Replaces: com.autopear.sharewidget7, com.autopear.sharewidget8
+Filename: debs/com.autopear.sharewidgetplus_1.0~beta1_iphoneos-arm.deb
+Size: 816352
+MD5sum: 6033bf019ecc98b3de0f814874efb8ea
+SHA1: af75e0466f9ea0a83de9835cff4018596ecfe502
+SHA256: 892b730e0d7759301a29326e31665345ea778492478f95ea7ff999c07b6a3b00
+Section: Addons
+Priority: standard
+Description: Ultimate social share widget for iOS 9. If you can make icons or translations, please email to me.
+Tag: purpose::extension, ios9support::1
+Author: Merlin <lonelystars@gmail.com>
+Dev: lonelystars
+Icon: file:///Library/PreferenceBundles/ShareWidgetPlusPrefs.bundle/ShareWidgetPlus.png
+Name: Share Widget Plus
+
 Package: com.autopear.silentcharge
 Version: 2.0
 Architecture: iphoneos-arm
