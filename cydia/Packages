@@ -57,19 +57,19 @@ Author: autopear <lonelystars@gmail.com>
 Name: Pack DEB
 
 Package: com.autopear.sharewidgetplus
-Version: 1.0~beta3
+Version: 1.0~beta4
 Architecture: iphoneos-arm
 Maintainer: Merlin <lonelystars@gmail.com>
-Installed-Size: 3460
+Installed-Size: 3308
 Pre-Depends: firmware (>= 9.0)
 Depends: mobilesubstrate (>= 0.9.6011), preferenceloader (>= 2.2.3-3), de.j-gessner.ccloader
 Conflicts: gsc.ipad, com.autopear.sharewidget7, com.autopear.sharewidget8
 Replaces: com.autopear.sharewidget7, com.autopear.sharewidget8
-Filename: debs/com.autopear.sharewidgetplus_1.0~beta3_iphoneos-arm.deb
-Size: 880062
-MD5sum: fea7345ffdeb856d8aff26556d733e21
-SHA1: 8ddb3299b1fd45eca7efea7c7ae18adf82f388f6
-SHA256: f46866e7468ca6d054589444ffb7b11c7c4030e3242fca05a600e832df252a20
+Filename: debs/com.autopear.sharewidgetplus_1.0~beta4_iphoneos-arm.deb
+Size: 795066
+MD5sum: 7e749925c57ad4f224604bdf7f1cbece
+SHA1: 3e581fe4f2015680b6c41a1595a08c4396c58b1b
+SHA256: 431251b7de544e7042a7b482574d79097438964469861ee349c12159b4414c4a
 Section: Addons
 Priority: standard
 Description: Ultimate social share widget for iOS 9. If you can make icons or translations, please email to me.
