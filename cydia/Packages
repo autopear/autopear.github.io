@@ -1,3 +1,23 @@
+Package: com.autopear.cn.springtomize3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 12
+Depends: com.filippobiga.springtomize3
+Filename: debs/com.autopear.cn.springtomize3_1.0_iphoneos-arm.deb
+Size: 7992
+MD5sum: 2dc2bcf0bc92d2156efc221bb193893d
+SHA1: aab78b8c2baf4ff56f72c64c2d85ea403ffe7eb7
+SHA256: c67c095aa19fd7a0794dd8a90651252733e008feeeb017c536d64ec7bf888521
+Section: Localization
+Priority: standard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
+Description: Springtomize 3 简体中文修正语言包。
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Icon: file:///Library/PreferenceBundles/ST3Settings.bundle/icons/Main.png
+Name: Springtomize 3 简体中文修正语言包
+
 Package: com.autopear.donoterase
 Version: 1.4
 Architecture: iphoneos-arm
@@ -17,19 +37,19 @@ Author: autopear <lonelystars@gmail.com>
 Name: Do NOT Erase
 
 Package: com.autopear.lang.flipswitch
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
-Installed-Size: 36
+Installed-Size: 16
 Depends: com.a3tweaks.flipswitch
 Conflicts: com.autopear.zh.flipswitch
 Replaces: com.autopear.zh.flipswitch
 Provides: com.autopear.zh.flipswitch
-Filename: debs/com.autopear.lang.flipswitch_1.1_iphoneos-arm.deb
-Size: 7442
-MD5sum: c97baf42b1fa7cc75b995470eda38946
-SHA1: 798d8fce600f21c8027d5274bf99a2113467060f
-SHA256: eab0f48cfaa1e861354c23492af3c09cd09ef1424b5e93b840c6b633da13d3bb
+Filename: debs/com.autopear.lang.flipswitch_1.2_iphoneos-arm.deb
+Size: 7400
+MD5sum: 7bc15072b8102d31a720d95c99d537ce
+SHA1: 14d7f87ee5d1d725c5666e85e98abe2aada79983
+SHA256: 413612bf50561df3593268edaf347389cd32997ec38e1493344ab9fa927f20d4
 Section: Localization
 Priority: standard
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchDp
@@ -59,7 +79,7 @@ Name: Pack DEB
 Package: com.autopear.sharewidgetplus
 Version: 1.0~beta4
 Architecture: iphoneos-arm
-Maintainer: Merlin <lonelystars@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 3308
 Pre-Depends: firmware (>= 9.0)
 Depends: mobilesubstrate (>= 0.9.6011), preferenceloader (>= 2.2.3-3), de.j-gessner.ccloader
@@ -72,12 +92,13 @@ SHA1: 3e581fe4f2015680b6c41a1595a08c4396c58b1b
 SHA256: 431251b7de544e7042a7b482574d79097438964469861ee349c12159b4414c4a
 Section: Addons
 Priority: standard
-Description: Ultimate social share widget for iOS 9. If you can make icons or translations, please email to me.
+Description: Ultimate social share widget for iOS 9
 Tag: purpose::extension, ios9support::1
 Author: Merlin <lonelystars@gmail.com>
 Dev: lonelystars
 Icon: file:///Library/PreferenceBundles/ShareWidgetPlusPrefs.bundle/ShareWidgetPlus.png
 Name: Share Widget Plus
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.autopear.silentcharge
 Version: 2.0
@@ -154,6 +175,46 @@ Tag: role::enduser
 Author: autopear <lonelystars@gmail.com>
 Icon: file:///Library/PreferenceBundles/FolderEnhancer.bundle/icon.png
 Name: FolderEnhancer (iOS 7/8/9) 中文包
+
+Package: com.autopear.zh.ifile
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 268
+Depends: eu.heinelt.ifile
+Filename: debs/com.autopear.zh.ifile_1.0_iphoneos-arm.deb
+Size: 99462
+MD5sum: a09dc1f269011811e52cd8a3d61a9cf6
+SHA1: 9ac14f4645534dbf06cc94f6010c9402f3aa40c4
+SHA256: 4c9a6261666f98245d1e9a355960ef38ffbd53e7b67fccb58af07a8a60619a57
+Section: Localization
+Priority: standard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ifileData
+Description: iFile 简体及繁体中文修正语言包。
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Icon: file:///Applications/iFile.app/AppIcon29x29.png
+Name: iFile 中文修正语言包
+
+Package: com.autopear.zh.libactivator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 127
+Depends: libactivator
+Filename: debs/com.autopear.zh.libactivator_1.0_iphoneos-arm.deb
+Size: 47268
+MD5sum: 99e52f1de33012dc640a14e1bd895bbb
+SHA1: 9f64820e37625df991f7887b9371f640ac1d7f78
+SHA256: da0faa3ea97c848860d2be4655be3c1a996479353c43e60afd61a64f5364e3c1
+Section: Localization
+Priority: standard
+Homepage: http://rpetri.ch/cydia/activator/
+Description: Activator 简体及繁体中文修正语言包，支持 beta 版本。
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+Name: Activator 中文修正语言包
 
 Package: com.autopear.zh.multiiconmover.plus
 Version: 2.5.2
@@ -234,4 +295,25 @@ Tag: role::enduser, purpose::extension
 Author: Ryan Petrich <rpetrich@gmail.com>
 Dev: rpetrich
 Name: Icon Renamer (Multilingual)
+
+Package: rasticrac
+Version: 3.2.9
+Architecture: iphoneos-arm
+Installed-Size: 342
+Pre-Depends: firmware (>= 3.1)
+Depends: zip, com.ericasadun.utilities, firware (<< 5.0) | org.coolstar.cctools, firmware (>= 5.0) | odcctools, adv-cmds, gawk, coreutils, system-cmds
+Conflicts: ldone, poedcrackmod
+Replaces: ldone, poedcrackmod
+Provides: ldone, poedcrackmod
+Filename: debs/rasticrac_3.2.9_iphoneos-arm.deb
+Size: 35878
+MD5sum: 96f130affd11f0817333d9d566410d8f
+SHA1: dac2565e17f4d25effd8500bed0827a409ba8a6e
+SHA256: dc4c2e88814c62091203e172c53bfcb1ec316535e7489bf9ce6fad994d6640d8
+Section: Utilities
+Priority: standard
+Description: Remove app signature.
+Tag: role::hacker, purpose::console
+Author: Rastignac
+Name: Rasticrac
 
