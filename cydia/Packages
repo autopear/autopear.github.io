@@ -40,16 +40,16 @@ Package: com.autopear.lang.flipswitch
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
-Installed-Size: 16
+Installed-Size: 15
 Depends: com.a3tweaks.flipswitch
 Conflicts: com.autopear.zh.flipswitch
 Replaces: com.autopear.zh.flipswitch
 Provides: com.autopear.zh.flipswitch
 Filename: debs/com.autopear.lang.flipswitch_1.2_iphoneos-arm.deb
-Size: 7400
-MD5sum: 7bc15072b8102d31a720d95c99d537ce
-SHA1: 14d7f87ee5d1d725c5666e85e98abe2aada79983
-SHA256: 413612bf50561df3593268edaf347389cd32997ec38e1493344ab9fa927f20d4
+Size: 6688
+MD5sum: 55d2a4ceeffd28e96f9d5d158a7db82c
+SHA1: dcf2856f04b3fe3f132df71fc200d0a6cc51c195
+SHA256: c281907a6e44e9fb3ced7151765805c31f7d7b61b67c778fa33422c490dc3676
 Section: Localization
 Priority: standard
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchDp
