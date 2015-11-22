@@ -1,14 +1,14 @@
 Package: com.autopear.cn.springtomize3
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
 Installed-Size: 12
 Depends: com.filippobiga.springtomize3
-Filename: debs/com.autopear.cn.springtomize3_1.0_iphoneos-arm.deb
-Size: 7992
-MD5sum: 2dc2bcf0bc92d2156efc221bb193893d
-SHA1: aab78b8c2baf4ff56f72c64c2d85ea403ffe7eb7
-SHA256: c67c095aa19fd7a0794dd8a90651252733e008feeeb017c536d64ec7bf888521
+Filename: debs/com.autopear.cn.springtomize3_1.1_iphoneos-arm.deb
+Size: 8206
+MD5sum: c1ba104490c59b12876555395b045115
+SHA1: 015918f2b0a9ba1d9a05d81a402b47e1446fc74c
+SHA256: b564606c619a8fd6f7ca4dc480811252813c780062f3f8c34a9a1a774b6068c6
 Section: Localization
 Priority: standard
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
@@ -197,16 +197,16 @@ Icon: file:///Applications/iFile.app/AppIcon29x29.png
 Name: iFile 中文修正语言包
 
 Package: com.autopear.zh.libactivator
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
 Installed-Size: 127
 Depends: libactivator
-Filename: debs/com.autopear.zh.libactivator_1.0_iphoneos-arm.deb
-Size: 47268
-MD5sum: 99e52f1de33012dc640a14e1bd895bbb
-SHA1: 9f64820e37625df991f7887b9371f640ac1d7f78
-SHA256: da0faa3ea97c848860d2be4655be3c1a996479353c43e60afd61a64f5364e3c1
+Filename: debs/com.autopear.zh.libactivator_1.1_iphoneos-arm.deb
+Size: 47698
+MD5sum: 9d470fd8f5d709d7cf3299b488bf16e3
+SHA1: c227e9c8958d21ca2f10aed88283fc28a7961b2b
+SHA256: 3ef5a066404ce538da33e573dabb047f6fa2ade5f56f16a1ee1f2682dae2f588
 Section: Localization
 Priority: standard
 Homepage: http://rpetri.ch/cydia/activator/
