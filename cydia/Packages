@@ -2,13 +2,13 @@ Package: com.autopear.cn.springtomize3
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
-Installed-Size: 12
+Installed-Size: 13
 Depends: com.filippobiga.springtomize3
-Filename: debs/com.autopear.cn.springtomize3_1.1_iphoneos-arm.deb
-Size: 8206
-MD5sum: c1ba104490c59b12876555395b045115
-SHA1: 015918f2b0a9ba1d9a05d81a402b47e1446fc74c
-SHA256: b564606c619a8fd6f7ca4dc480811252813c780062f3f8c34a9a1a774b6068c6
+Filename: debs/com.autopear.cn.springtomize3_1.2_iphoneos-arm.deb
+Size: 7852
+MD5sum: f82c1dd2bf219af4f98b54a618d7520d
+SHA1: 7c32124ac7f21351d7de2d80041daf6585b61c23
+SHA256: e29974d4f6a0fda58e54d3554fc1821a198163e8b5eb5521b4658278222ba76d
 Section: Localization
 Priority: standard
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
