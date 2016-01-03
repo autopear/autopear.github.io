@@ -197,16 +197,16 @@ Icon: file:///Applications/iFile.app/AppIcon29x29.png
 Name: iFile 中文修正语言包
 
 Package: com.autopear.zh.libactivator
-Version: 1.3
+Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
-Installed-Size: 128
+Installed-Size: 132
 Depends: libactivator
-Filename: debs/com.autopear.zh.libactivator_1.3_iphoneos-arm.deb
-Size: 27938
-MD5sum: 936d59d24013a4b386e5b4769d80c1f2
-SHA1: 1ec33276233d57038e5a35502cdde2facc053e8e
-SHA256: dcb061ca62628a2656d5d0947d5c6bcc511dfde9d4a919c863c644900d1ca061
+Filename: debs/com.autopear.zh.libactivator_1.4_iphoneos-arm.deb
+Size: 34398
+MD5sum: 553651e8ac2280c6317c941332ba8cd0
+SHA1: 59bc13c6e430142a48ed481771fe48747b61627f
+SHA256: 90b0fe765fd7190d2b972815b525d67401b6a5a622050bb357ead359c0e3ff89
 Section: Localization
 Priority: standard
 Homepage: http://rpetri.ch/cydia/activator/
