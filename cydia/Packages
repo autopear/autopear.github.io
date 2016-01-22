@@ -156,17 +156,17 @@ Icon: file:///Library/PreferenceLoader/Preferences/FlipControlCenter.png
 Name: FlipControlCenter 中文包
 
 Package: com.autopear.zh.folderenhancer2
-Version: 2.3.0
+Version: 2.9.0
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
-Installed-Size: 36
+Installed-Size: 40
 Pre-Depends: firmware (>= 7.0)
 Depends: jp.ashikase.folderenhancer2 (>= 2.2.0)
-Filename: debs/com.autopear.zh.folderenhancer2_2.3.0_iphoneos-arm.deb
-Size: 2370
-MD5sum: e4afc0ba54a37b8895d0f33c24f429fb
-SHA1: 2b030495d3f95f42a23afea65a53db7eabe79c33
-SHA256: 92ac25b0191dd80ff3f14f8d8772a00a4935daaf8cc23f2ad1c25bfc5de150ef
+Filename: debs/com.autopear.zh.folderenhancer2_2.9.0_iphoneos-arm.deb
+Size: 2596
+MD5sum: d2a45b66f321ea8e9ba4059489545b01
+SHA1: 5ec589fe9794eb8c55642040f06cb9fd0e1c0375
+SHA256: 3e31e3aa96044bf74dfd6f5864e83a9839f783c03622803eea2833571017edde
 Section: Localization
 Priority: standard
 Homepage: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.folderenhancer2/
@@ -297,19 +297,19 @@ Dev: rpetrich
 Name: Icon Renamer (Multilingual)
 
 Package: rasticrac
-Version: 3.2.9
+Version: 3.3.0
 Architecture: iphoneos-arm
-Installed-Size: 342
+Installed-Size: 312
 Pre-Depends: firmware (>= 3.1)
-Depends: zip, com.ericasadun.utilities, firware (<< 5.0) | org.coolstar.cctools, firmware (>= 5.0) | odcctools, adv-cmds, gawk, coreutils, system-cmds
+Depends: zip, com.ericasadun.utilities, firmware (<< 5.0) | org.coolstar.cctools, firmware (>= 5.0) | odcctools, adv-cmds, gawk, coreutils, system-cmds
 Conflicts: ldone, poedcrackmod
 Replaces: ldone, poedcrackmod
 Provides: ldone, poedcrackmod
-Filename: debs/rasticrac_3.2.9_iphoneos-arm.deb
-Size: 35878
-MD5sum: 96f130affd11f0817333d9d566410d8f
-SHA1: dac2565e17f4d25effd8500bed0827a409ba8a6e
-SHA256: dc4c2e88814c62091203e172c53bfcb1ec316535e7489bf9ce6fad994d6640d8
+Filename: debs/rasticrac_3.3.0_iphoneos-arm.deb
+Size: 48446
+MD5sum: e7b0583ba3622906d2f3eaacdfb5fb16
+SHA1: 5dc94b31db5340e6d383b51f8d6fcb10b2b738ec
+SHA256: 62fa4752dea8cc5cec3e51832330f998e7200397d0fa44f5b37fb73f23babe2a
 Section: Utilities
 Priority: standard
 Description: Remove app signature.
