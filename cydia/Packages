@@ -156,17 +156,17 @@ Icon: file:///Library/PreferenceLoader/Preferences/FlipControlCenter.png
 Name: FlipControlCenter 中文包
 
 Package: com.autopear.zh.folderenhancer2
-Version: 2.9.0
+Version: 2.9.1
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
-Installed-Size: 40
+Installed-Size: 41
 Pre-Depends: firmware (>= 7.0)
 Depends: jp.ashikase.folderenhancer2 (>= 2.2.0)
-Filename: debs/com.autopear.zh.folderenhancer2_2.9.0_iphoneos-arm.deb
-Size: 2596
-MD5sum: d2a45b66f321ea8e9ba4059489545b01
-SHA1: 5ec589fe9794eb8c55642040f06cb9fd0e1c0375
-SHA256: 3e31e3aa96044bf74dfd6f5864e83a9839f783c03622803eea2833571017edde
+Filename: debs/com.autopear.zh.folderenhancer2_2.9.1_iphoneos-arm.deb
+Size: 2864
+MD5sum: c08412d77302358eea2af5e0488239bd
+SHA1: 5f9f61d4a6cebad08c766390b8e32f87106d7938
+SHA256: 0ac203b1acd4e3571a01097ff47a1b6f26d78c7743358ed07690c9bb53de823b
 Section: Localization
 Priority: standard
 Homepage: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.folderenhancer2/
