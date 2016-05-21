@@ -1,3 +1,20 @@
+Package: clutch
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 1140
+Filename: debs/clutch_2.0.2_iphoneos-arm.deb
+Size: 245638
+MD5sum: 9f203e1415cbadde2816da759d80b710
+SHA1: 375b00cbad08556b772abecbb63a1b31b7dd59ad
+SHA256: 6fa4339e7adeba31e1431a425547f5d0d171290e35b0c4f5902d02aa783b7400
+Section: Development
+Priority: optional
+Homepage: https://github.com/KJCracks/Clutch/releases
+Description: Clutch
+Tag: role::hacker, purpose::console
+Name: Clutch
+
 Package: com.autopear.cn.springtomize3
 Version: 1.3
 Architecture: iphoneos-arm
@@ -297,19 +314,19 @@ Dev: rpetrich
 Name: Icon Renamer (Multilingual)
 
 Package: rasticrac
-Version: 3.3.0
+Version: 3.3.3
 Architecture: iphoneos-arm
-Installed-Size: 312
+Installed-Size: 367
 Pre-Depends: firmware (>= 3.1)
 Depends: zip, com.ericasadun.utilities, firmware (<< 5.0) | org.coolstar.cctools, firmware (>= 5.0) | odcctools, adv-cmds, gawk, coreutils, system-cmds
 Conflicts: ldone, poedcrackmod
 Replaces: ldone, poedcrackmod
 Provides: ldone, poedcrackmod
-Filename: debs/rasticrac_3.3.0_iphoneos-arm.deb
-Size: 48446
-MD5sum: e7b0583ba3622906d2f3eaacdfb5fb16
-SHA1: 5dc94b31db5340e6d383b51f8d6fcb10b2b738ec
-SHA256: 62fa4752dea8cc5cec3e51832330f998e7200397d0fa44f5b37fb73f23babe2a
+Filename: debs/rasticrac_3.3.3_iphoneos-arm.deb
+Size: 39086
+MD5sum: 77ec7fedcfe75c9cb830e043b42f037b
+SHA1: 9cbdefb8f6d6d6395be3245a0a00ece8bee23f80
+SHA256: 0f57d1d4cf0e61388e66f620f6606ed4a5012753b82e375dfac31fd1dfdb8970
 Section: Utilities
 Priority: standard
 Description: Remove app signature.
