@@ -54,19 +54,19 @@ Author: autopear <lonelystars@gmail.com>
 Name: Do NOT Erase
 
 Package: com.autopear.lang.flipswitch
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
-Installed-Size: 15
+Installed-Size: 16
 Depends: com.a3tweaks.flipswitch
 Conflicts: com.autopear.zh.flipswitch
 Replaces: com.autopear.zh.flipswitch
 Provides: com.autopear.zh.flipswitch
-Filename: debs/com.autopear.lang.flipswitch_1.2_iphoneos-arm.deb
-Size: 6688
-MD5sum: 55d2a4ceeffd28e96f9d5d158a7db82c
-SHA1: dcf2856f04b3fe3f132df71fc200d0a6cc51c195
-SHA256: c281907a6e44e9fb3ced7151765805c31f7d7b61b67c778fa33422c490dc3676
+Filename: debs/com.autopear.lang.flipswitch_1.3_iphoneos-arm.deb
+Size: 6714
+MD5sum: d72991f60db2e0123812cb90496e6bbf
+SHA1: 77f11c49c5bea3c186a45c601eadd864a95df5f6
+SHA256: 93fb3528c4dd69b759994395d3d8dabcb09e25e54dd3f4446d3c2d864f6f6f8e
 Section: Localization
 Priority: standard
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchDp
