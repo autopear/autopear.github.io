@@ -217,13 +217,13 @@ Package: com.autopear.zh.libactivator
 Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: autopear <lonelystars@gmail.com>
-Installed-Size: 144
+Installed-Size: 146
 Depends: libactivator
 Filename: debs/com.autopear.zh.libactivator_1.6_iphoneos-arm.deb
-Size: 56270
-MD5sum: 86adb0e4a27c33c76f7454ea10212380
-SHA1: d98f73b69705c3d0fd719d42182487320d43c7fc
-SHA256: 4c5b8d04579943a67ddf505f6c9e30038f54a819187e9e838cf97773dc2e59fd
+Size: 56474
+MD5sum: 525955c5c5af1f167574606eab1c7130
+SHA1: 4fb5c568f1315768208c82bb921e0a572f8e609e
+SHA256: 6807a962335b51b724532f47be57cde463d1e9d6774411e6ed12802ca6de8e0a
 Section: Localization
 Priority: standard
 Homepage: http://rpetri.ch/cydia/activator/
