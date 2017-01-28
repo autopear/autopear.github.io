@@ -15,6 +15,25 @@ Description: Clutch
 Tag: role::hacker, purpose::console
 Name: Clutch
 
+Package: com.autopear.chasepayenabler
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 120
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.autopear.chasepayenabler_1.0-1_iphoneos-arm.deb
+Size: 7112
+MD5sum: 13cbb498919ea3ee5410978d86f64eb5
+SHA1: 8f6dfde0bb82c98b8c8f02972ce2901f9c309dcf
+SHA256: 2370fc8ce1ece9063d332b6ddd918a28915e8cbc7e72e25b4b618efb1511afa0
+Section: Tweaks
+Priority: standard
+Description: Bypass Chase Pay jailbreak detection. Tested on iOS 9.3.3, Chase Pay® 1.406.
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Name: Chase Pay® Enabler
+
 Package: com.autopear.cn.springtomize3
 Version: 1.3
 Architecture: iphoneos-arm
