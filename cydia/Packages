@@ -62,10 +62,10 @@ Installed-Size: 120
 Pre-Depends: firmware (>= 8.2)
 Depends: mobilesubstrate (>= 0.9.6301)
 Filename: debs/com.autopear.discoverpatch_1.0-1_iphoneos-arm.deb
-Size: 7336
-MD5sum: 3312a8ebaef5f8511b24109c8d2b804a
-SHA1: 280d53347061881f0ed40511388dd7603643f6f9
-SHA256: ea8aa5262fe7941007d0f122aa79ce7abdc4634e893f5889754c6a5b683860f8
+Size: 7222
+MD5sum: 0b202c6a2ec5f83bdbabcd2ba625caca
+SHA1: 70b2ea3eaba9d06627b23a16ada93b1ed643d6c1
+SHA256: 7b0502e89fbb9963954fff6b1bc67ff83cb850db9712ba2e0039197d23b0d564
 Section: Tweaks
 Priority: standard
 Description: Bypass Discover Mobile jailbreak detection. Tested on iOS 9.3.3, Discover Mobile 39.0.
