@@ -54,6 +54,25 @@ Author: autopear <lonelystars@gmail.com>
 Icon: file:///Library/PreferenceBundles/ST3Settings.bundle/icons/Main.png
 Name: Springtomize 3 简体中文修正语言包
 
+Package: com.autopear.discoverpatch
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 120
+Pre-Depends: firmware (>= 8.2)
+Depends: mobilesubstrate (>= 0.9.6301)
+Filename: debs/com.autopear.discoverpatch_1.0-1_iphoneos-arm.deb
+Size: 7336
+MD5sum: 3312a8ebaef5f8511b24109c8d2b804a
+SHA1: 280d53347061881f0ed40511388dd7603643f6f9
+SHA256: ea8aa5262fe7941007d0f122aa79ce7abdc4634e893f5889754c6a5b683860f8
+Section: Tweaks
+Priority: standard
+Description: Bypass Discover Mobile jailbreak detection. Tested on iOS 9.3.3, Discover Mobile 39.0.
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Name: Discover Mobile Patch
+
 Package: com.autopear.donoterase
 Version: 1.4
 Architecture: iphoneos-arm
