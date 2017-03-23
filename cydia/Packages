@@ -131,6 +131,25 @@ Tag: role::hacker, purpose::console
 Author: autopear <lonelystars@gmail.com>
 Name: Pack DEB
 
+Package: com.autopear.pokego2linkoopener
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: autopear <lonelystars@gmail.com>
+Installed-Size: 120
+Pre-Depends: firmware (>= 8.0)
+Depends: mobilesubstrate (>= 0.9.6301)
+Filename: debs/com.autopear.pokego2linkoopener_1.0-1_iphoneos-arm.deb
+Size: 5486
+MD5sum: a7b2a1d5b702ece51b1d40c693aec747
+SHA1: 198867799e099675e46cd1aac71281ca55ae7a1c
+SHA256: 4d039a7f6e29f3671b4c97671b7d834736756120148d933e9d38fa06fa3c840f
+Section: Tweaks
+Priority: standard
+Description: Directly resolve URL from poke.pw or pokedex100.com to pokego2://
+Tag: role::enduser
+Author: autopear <lonelystars@gmail.com>
+Name: PokeGO++ 2 Link Opener
+
 Package: com.autopear.sharewidgetplus
 Version: 1.0~beta4
 Architecture: iphoneos-arm
