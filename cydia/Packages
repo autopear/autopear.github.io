@@ -139,13 +139,13 @@ Installed-Size: 120
 Pre-Depends: firmware (>= 8.0)
 Depends: mobilesubstrate (>= 0.9.6301), com.pokego2.pokego2
 Filename: debs/com.autopear.pokego2linkoopener_1.0.1-1_iphoneos-arm.deb
-Size: 5600
-MD5sum: 8eecc0ed92cfbc343e0a61d94fd43d80
-SHA1: 68e0c900ce3da99421240947f039977ddcac26a6
-SHA256: a0bab3fbfb5852256771a9a160ea2aa7350c24ddd8d83d435b1d1b1761aa049c
+Size: 5638
+MD5sum: 8f0fc02058d8645c048538290a16bacf
+SHA1: dd7d6abd78b328900a5b450079b3c4cb1bf425f8
+SHA256: 98da01a778dde05b0270aec6eb15e2a166b7cfa480ba4b162c5f0d128fadff10
 Section: Tweaks
 Priority: standard
-Description: Directly resolve URL from poke.pw or pokedex100.com or pokego2.com to pokego2://, without access to the Internet of opening Safari.
+Description: Directly resolve URL from poke.pw or pokedex100.com or pokego2.com to pokego2://, without access to the Internet or opening Safari. Note for use in Discord, the Web Browser must be set to Safari.
 Tag: role::enduser
 Author: autopear <lonelystars@gmail.com>
 Name: PokeGO++ 2 Link Opener
