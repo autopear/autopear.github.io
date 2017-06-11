@@ -380,10 +380,10 @@ Conflicts: ldone, poedcrackmod
 Replaces: ldone, poedcrackmod
 Provides: ldone, poedcrackmod
 Filename: debs/rasticrac_3.3.6_iphoneos-arm.deb
-Size: 40052
-MD5sum: cea9e96aa5891160bae1c406a517da6b
-SHA1: 9c43883687093723fcfef741a30626cbcebe85a7
-SHA256: 6783ca4b5936c43c1353c853d4f9ec6d7458a7ac1b1b492685d67d4949db4555
+Size: 52660
+MD5sum: 34db52a349617be3d3f11491c535852a
+SHA1: cf8ea34d6b659d50fc5849f21ab12810517800c1
+SHA256: b7815bbf32d8ebdfb23b0a75ac594e3746ab976b9e18b84b476a34a810051d18
 Section: Utilities
 Priority: standard
 Description: Remove app signature.
