@@ -371,19 +371,19 @@ Dev: rpetrich
 Name: Icon Renamer (Multilingual)
 
 Package: rasticrac
-Version: 3.3.3
+Version: 3.3.6
 Architecture: iphoneos-arm
-Installed-Size: 367
+Installed-Size: 375
 Pre-Depends: firmware (>= 3.1)
 Depends: zip, com.ericasadun.utilities, firmware (<< 5.0) | org.coolstar.cctools, firmware (>= 5.0) | odcctools, adv-cmds, gawk, coreutils, system-cmds
 Conflicts: ldone, poedcrackmod
 Replaces: ldone, poedcrackmod
 Provides: ldone, poedcrackmod
-Filename: debs/rasticrac_3.3.3_iphoneos-arm.deb
-Size: 39086
-MD5sum: 77ec7fedcfe75c9cb830e043b42f037b
-SHA1: 9cbdefb8f6d6d6395be3245a0a00ece8bee23f80
-SHA256: 0f57d1d4cf0e61388e66f620f6606ed4a5012753b82e375dfac31fd1dfdb8970
+Filename: debs/rasticrac_3.3.6_iphoneos-arm.deb
+Size: 40052
+MD5sum: cea9e96aa5891160bae1c406a517da6b
+SHA1: 9c43883687093723fcfef741a30626cbcebe85a7
+SHA256: 6783ca4b5936c43c1353c853d4f9ec6d7458a7ac1b1b492685d67d4949db4555
 Section: Utilities
 Priority: standard
 Description: Remove app signature.
